@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nischal Pandey</h1>
-<h3 align="center">A passionate coder from Nepal</h3>
+<h3 align="center">A noob coder from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischalsir&label=Profile%20views&color=0e75b6&style=flat" alt="nischalsir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nischalsir" alt="nischalsir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nischalsir" target="blank"><img src="https://img.shields.io/twitter/follow/nischalsir?logo=twitter&style=for-the-badge" alt="nischalsir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nischal_sir" target="blank"><img src="https://img.shields.io/twitter/follow/nischal_sir?logo=twitter&style=for-the-badge" alt="nischal_sir" /></a> </p>
 
 - 🔭 I’m currently working on [React Website](https://github.com/nischalsir/React-Portfolio)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nischalsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nischalsir" height="30" width="40" /></a>
+<a href="https://twitter.com/nischal_sir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nischal_sir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nischal-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nischal-pandey" height="30" width="40" /></a>
 <a href="https://fb.com/nischalsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nischalsir" height="30" width="40" /></a>
 <a href="https://instagram.com/nischal_sir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nischal_sir" height="30" width="40" /></a>
