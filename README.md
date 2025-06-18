@@ -9,9 +9,8 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on my [React Portfolio Website](https://github.com/nischalsir/React-Portfolio) **Unfinished**
 - 🌱 I’m currently at **College**
-- 👯 I’m looking to collaborate on **Web App** projects
+- 👯 I’m looking to collaborate on **ANY** projects
 - 💬 Ask me about **Simple Projects**
 - 📝 I write articles at [www.nischalsir.com](http://www.nischalsir.com)
 - 📫 Reach me at **work.nischalpandey@gmail.com**
