@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 Hi there, I'm Nischal Pandey 🇳🇵
-### 🚀 Full-Stack React Developer | Tech Enthusiast
+### 🚀 Full-Stack Developer | Tech Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nischalsir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 </div>
 
-> 🔭 I’m currently working on **React & Full-Stack Projects** > 🌱 I’m currently diving deep into **Advanced React & Next.js** > 👨‍💻 All of my open-source projects are available at [github.com/nischalsir](https://github.com/nischalsir)  
+> 🔭 I’m currently working on **Full-Stack Projects** > 🌱 I’m currently diving deep into **Advanced React & Next.js** > 👨‍💻 All of my open-source projects are available at [github.com/nischalsir](https://github.com/nischalsir)  
 > 💬 Ask me about **Frontend UI/UX, React ecosystems, and Web Development** > 📫 Reach me directly: **[work.nischalpandey@gmail.com](mailto:work.nischalpandey@gmail.com)** > ⚡ Fun fact: **I code, I learn, and I stay Active!** <br />
 
 <div align="center">
