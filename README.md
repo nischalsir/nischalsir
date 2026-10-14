@@ -11,8 +11,9 @@
 ### 💼 What I can build for you
 
 - 🌐 **Business websites & landing pages** — fast, mobile-friendly, SEO-ready (React / Next.js / Tailwind)
-- 📱 **Mobile apps** — Android & iOS from one codebase with Flutter
-- 🛠️ **Web apps & dashboards** — login, database, admin panel (Node.js / Django / PHP / MySQL / MongoDB / Firebase)
+- 📱 **Mobile apps** — Android & iOS from one codebase with Flutter, or native Android with Kotlin & Jetpack Compose
+- 🛠️ **Web apps & SaaS dashboards** — login, payments (Khalti), database, admin panel (Supabase / Node.js / Django / Firebase)
+- 🤖 **AI features** — chat assistants and smart features using Gemini & NVIDIA NIM
 - 🎨 **UI/UX in Figma** — turn your idea into a clean design, then into working code
 - 🐞 **Bug fixes & updates** — fix, speed up or redesign your existing site
 
@@ -25,8 +26,10 @@
 | Project | What it is | Tech |
 |---|---|---|
 | 🔥 **[Kharcha](https://github.com/nischalsir/kharcha)** | Nepali expense tracker with an AI flame mascot that reacts to your spending. Bikram Sambat calendar with daily tithi & 60+ festivals, budgets, friends & pasal credit, offline-first sync. | Flutter, Dart |
-| 💻 **[React Portfolio](https://github.com/nischalsir/React-Portfolio)** | My personal portfolio website. | React, Next.js, TypeScript |
-| 🍽️ **[Restaurant Management System](https://github.com/nischalsir/Restaurant-management-system-project-in-Java)** | Desktop app for orders, billing and menu management. | Java, MySQL |
+| 🏔️ **[HimalStay](https://github.com/nischalsir/HimalStay---Modern-Hospitality-Management-Platform)** | Role-based SaaS connecting travelers with hotels in Nepal — owner dashboard for rooms & revenue, Khalti payments, and an AI booking concierge. | React, TypeScript, Supabase, Tailwind |
+| 🎧 **[NocTune](https://github.com/nischalsir/NocTune)** | Offline music player for Android & iOS — plays your on-device library with no account and no uploads. | Flutter, Kotlin |
+| 📡 **[DShare](https://github.com/nischalsir/DShare)** | Fast file sharing between nearby devices over local Wi-Fi or hotspot — no internet, no cloud, QR pairing. | Kotlin, Jetpack Compose |
+| 🌾 **[Hamro Kisan](https://github.com/nischalsir/hamro-kisan)** | Smart agriculture assistant app for farmers. | Mobile + [web](https://github.com/nischalsir/hamro-kishan-web) |
 
 👉 See all projects in my [repositories](https://github.com/nischalsir?tab=repositories).
 
@@ -35,7 +38,7 @@
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart&theme=dark" alt="Frontend & mobile"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart,kotlin,androidstudio&theme=dark" alt="Frontend & mobile"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,mysql,mongodb,firebase,supabase&theme=dark" alt="Backend & databases"/>
   <br/>
